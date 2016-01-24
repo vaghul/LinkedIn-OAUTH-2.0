@@ -9,8 +9,8 @@
 #import "ViewController.h"
 #import "AppMacros.h"
 
-const NSString *key=@"75oaw0qxknm8sn";
-const NSString *secret=@"qEvpy3jnztKQonzg";
+const NSString *key=@"UR KEY";
+const NSString *secret=@"UR SECRET";
 const NSString *authend=@"https://www.linkedin.com/uas/oauth2/authorization";
 const NSString *acessend=@"https://www.linkedin.com/uas/oauth2/accessToken";
 @interface ViewController ()
